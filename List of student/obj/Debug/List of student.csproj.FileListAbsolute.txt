@@ -1,0 +1,28 @@
+C:\Users\Mehran\source\repos\List of student\List of student\bin\Debug\List of student.exe.config
+C:\Users\Mehran\source\repos\List of student\List of student\bin\Debug\List of student.exe
+C:\Users\Mehran\source\repos\List of student\List of student\bin\Debug\List of student.pdb
+C:\Users\Mehran\source\repos\List of student\List of student\obj\Debug\List of student.csprojAssemblyReference.cache
+C:\Users\Mehran\source\repos\List of student\List of student\obj\Debug\List_of_student.Form1.resources
+C:\Users\Mehran\source\repos\List of student\List of student\obj\Debug\List_of_student.Properties.Resources.resources
+C:\Users\Mehran\source\repos\List of student\List of student\obj\Debug\List of student.csproj.GenerateResource.cache
+C:\Users\Mehran\source\repos\List of student\List of student\obj\Debug\List of student.csproj.CoreCompileInputs.cache
+C:\Users\Mehran\source\repos\List of student\List of student\obj\Debug\List of student.exe
+C:\Users\Mehran\source\repos\List of student\List of student\obj\Debug\List of student.pdb
+C:\Users\Mehran\source\repos\ListOfStudent\List of student\bin\Debug\List of student.exe.config
+C:\Users\Mehran\source\repos\ListOfStudent\List of student\bin\Debug\List of student.exe
+C:\Users\Mehran\source\repos\ListOfStudent\List of student\bin\Debug\List of student.pdb
+C:\Users\Mehran\source\repos\ListOfStudent\List of student\obj\Debug\List of student.csprojAssemblyReference.cache
+C:\Users\Mehran\source\repos\ListOfStudent\List of student\obj\Debug\List_of_student.Form1.resources
+C:\Users\Mehran\source\repos\ListOfStudent\List of student\obj\Debug\List_of_student.Properties.Resources.resources
+C:\Users\Mehran\source\repos\ListOfStudent\List of student\obj\Debug\List of student.csproj.GenerateResource.cache
+C:\Users\Mehran\source\repos\ListOfStudent\List of student\obj\Debug\List of student.csproj.CoreCompileInputs.cache
+C:\Users\Mehran\source\repos\ListOfStudent\List of student\obj\Debug\List of student.exe
+C:\Users\Mehran\source\repos\ListOfStudent\List of student\obj\Debug\List of student.pdb
+C:\Users\Mehran\source\repos\ListOfStudent\List of student\obj\Debug\List_of_student.AddStudent.resources
+C:\Users\Mehran\source\repos\ListOfStudent\List of student\obj\Debug\List_of_student.ListOfTheStudents.resources
+C:\Users\Mehran\source\repos\ListOfStudent\List of student\obj\Debug\List_of_student.EditStudent.resources
+C:\Users\Mehran\source\repos\ListOfStudent\List of student\obj\Debug\List_of_student.Login.resources
+C:\Users\Mehran\source\repos\ListOfStudent\List of student\obj\Debug\List_of_student.UserSignUp.resources
+C:\Users\Mehran\source\repos\ListOfStudent\List of student\obj\Debug\List_of_student.DeleteStudents.resources
+C:\Users\Mehran\source\repos\ListOfStudent\List of student\obj\Debug\List_of_student.AboutUs.resources
+C:\Users\Mehran\source\repos\ListOfStudent\List of student\obj\Debug\List_of_student.Registration.resources
